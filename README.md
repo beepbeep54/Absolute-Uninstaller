@@ -196,4 +196,4 @@ This repository serves as the official landing page for Absolute Uninstaller. Th
 **Get the most recent version of Absolute Uninstaller today!**
 
 ---
-**Last updated:** 2026-11-13 04:34:34 UTC
+**Last updated:** 2026-11-13 12:45:58 UTC
